@@ -5,7 +5,7 @@ Tecnologia é uma área que amo estudar e aprimorar meus conhecimentos na área 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/davidson-moraes-54741a224/)
 [![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram)](https://www.instagram.com/seu-perfil)
 
-# Tecnologias
+## Tecnologias
 
 ![c++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white)

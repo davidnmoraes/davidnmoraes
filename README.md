@@ -1,4 +1,4 @@
-# Oi! Sou Davidson Moraes! 👋
+# Oi! Sou Davidson Moraes! 🤝
 
 Tecnologia é uma área que amo estudar e aprimorar meus conhecimentos na área de programação tem sido uma missão diária, onde me comprometo em sempre acrescentar algo novo no enriquecimento do aprendizado.
 
